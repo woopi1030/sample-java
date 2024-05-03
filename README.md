@@ -8,5 +8,7 @@
 
 - 항목
     - change_int_byte
+    - database_connection
     - compare_db_tables
     - socket
+    - crypt
