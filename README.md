@@ -14,3 +14,5 @@
     - crypt
     - file_read
     - serialize
+    - redis
+    - remove_duplication

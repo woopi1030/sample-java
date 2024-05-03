@@ -36,6 +36,9 @@ dependencies {
 
     /** Jackson **/
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.16.2'
+
+    /** Redis **/
+    implementation 'redis.clients:jedis:5.1.1'
 	
 	testCompileOnly 'org.projectlombok:lombok:1.18.32'
 	testAnnotationProcessor 'org.projectlombok:lombok:1.18.32'
