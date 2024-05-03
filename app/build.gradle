@@ -33,6 +33,9 @@ dependencies {
 
     /** Apache Commons **/
     implementation 'commons-codec:commons-codec:1.16.1'
+
+    /** Jackson **/
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.16.2'
 	
 	testCompileOnly 'org.projectlombok:lombok:1.18.32'
 	testAnnotationProcessor 'org.projectlombok:lombok:1.18.32'
