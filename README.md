@@ -12,3 +12,5 @@
     - compare_db_tables
     - socket
     - crypt
+    - file_read
+    - serialize

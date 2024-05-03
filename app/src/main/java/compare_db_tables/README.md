@@ -1,4 +1,4 @@
-# change_int_byte
+# compare_db_tables
 ---
 
 - 무엇인가?
