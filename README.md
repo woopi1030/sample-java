@@ -16,3 +16,4 @@
     - serialize
     - redis
     - remove_duplication
+    - web_crawling
