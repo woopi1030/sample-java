@@ -17,3 +17,4 @@
     - redis
     - remove_duplication
     - web_crawling
+    - map_to_pojo
